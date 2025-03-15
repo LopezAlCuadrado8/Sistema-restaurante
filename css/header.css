@@ -1,0 +1,21 @@
+
+.nav-link {
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-brand{
+    color:blueviolet;
+    font-weight: bold;
+    font-size:25px;
+}
+
+.navbar-brand:hover{
+    color:blueviolet;
+}
+
+.registro{
+    color:crimson;
+    font-weight: bold;
+    text-decoration: none;
+}

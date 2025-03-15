@@ -1,0 +1,9 @@
+fieldset{
+    border-color: #F00 !important;
+    border-style: solid !important;
+}
+
+
+label{
+    font-weight: bold;
+}
