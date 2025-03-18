@@ -40,7 +40,7 @@ $consulta->execute();
 
 <body>
 
-<?include 'header.php';?>
+<?php include 'header.php';?>
 
   <div class="col-12 mx-auto my-3">
     <p class="text-center text-reserva">Reserva hecha correctamente</p>

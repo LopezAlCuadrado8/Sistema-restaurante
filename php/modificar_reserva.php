@@ -1,5 +1,5 @@
 <?php
-include_once 'header.php';
+
 include_once 'conexion.php';
 
 session_start();
@@ -43,7 +43,7 @@ $sql->execute();
 
 <body>
 
-
+<?php include 'header.php';?>
   <div class="col-12 mx-auto my-3">
     <p class="text-center text-reserva">Reserva modificada exitosamente.</p>
     <p class="text-center">Volviendo al inicio...</p>
